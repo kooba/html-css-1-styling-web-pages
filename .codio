@@ -1,0 +1,13 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+    "Styling web pages": "bash ~/workspace/.guides/restore.sh files"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Preview": "https://{{domain}}/{{index}}"
+  }
+}
