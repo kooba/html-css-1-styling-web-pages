@@ -10,10 +10,7 @@ We style HTML pages using a language called CSS (which stands for Cascading Styl
 
 ---
 title: Setting up to write some style
-  - action: open
-    path: "#cmd: bash .guides/restore.sh files,index.html"
-    panel: 0
-layout: ""
+files: []
 
 ---
 There are many ways to add styles to your HTML: inline, in the head, or as a separate .css document that we link to from the head. But today, we’ll be using styles in the head element of our html page so we don’t have to worry about handling multiple files.
