@@ -10,6 +10,7 @@ We style HTML pages using a language called CSS (which stands for Cascading Styl
 
 ---
 title: Setting up to write some style
+files:
   - action: open
     path: "#cmd: bash .guides/restore.sh files,index.html"
     panel: 0
